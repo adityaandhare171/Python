@@ -1,0 +1,7 @@
+a=33
+aaa=435
+harry=34
+sameer=25
+_sameer=25
+@ADITYS=5  # NOT VALID VARIABLE
+S@MEER=25  # NOT VALID VARIABLE
